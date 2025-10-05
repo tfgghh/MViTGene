@@ -10,5 +10,10 @@ Experimental results demonstrate that MViTGene achieves significantly superior p
 
 ## 📊 Datasets
 
-Three publicly available spatial transcriptomics (ST) datasets were used in this study.  
-You can download them from **[Zenodo](https://www.ncbi.nlm.nih.gov/geo/query/acc))** or find them on the following websites:
+We used one publicly available spatial transcriptomics dataset in this study.  
+You can access it from the NCBI GEO database:
+
+- [GEO Data Portal](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi)
+
+This dataset includes tissue section images, spatial coordinate files, and gene expression matrices that can be used for preprocessing and model training.
+
