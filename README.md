@@ -8,4 +8,7 @@ Experimental results demonstrate that MViTGene achieves significantly superior p
 
 <img src="./MViTGene.png" width="900">
 
+## 📊 Datasets
 
+Three publicly available spatial transcriptomics (ST) datasets were used in this study.  
+You can download them from **[Zenodo](https://www.ncbi.nlm.nih.gov/geo/query/acc))** or find them on the following websites:
